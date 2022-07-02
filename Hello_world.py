@@ -56,15 +56,6 @@ print(7, end=' ')
 print(8, end=' ')
 print(9, end=' ')
 
-
-a = 21
-b = a%2
-c = b%2
-d = c%2
-e = d%2
-print("\n")
-print("Binary Value Of 20 is ", +b, +c, +d, +e)
-
 p = [4,5,6]
 q = [1,2,3]
 print(p, end='|')
